@@ -1,8 +1,11 @@
 
 # Olá mundo! Eu sou Tarcizo Lopes   :sunglasses:
 
-No final do ano de 2022 tive meu primeiro contato com a área de desenvolvimento de software, e fiquei totalmente encantado por esse ramo de trabalho, assim logo no início de 2023 entrei num processo de transição de carreiras para a área de Tecnologia, desde então venho me aprimorando e afiando meu estudo em JavaScript, Python, Node.js, Django, SQL, Git. 
-Meu objetivo principal é aprimorar minhas habilidades como **desenvolvedor back-end** e continuar ampliando minhas conexões.
+**Desenvolvedor Back-end** de São Luís - MA, a "Ilha do Amor" :desert_island: :heartpulse: 
+
+No ano de 2022 tive meu primeiro contato com a área de desenvolvimento de software, e fiquei totalmente encantado por esse ramo de trabalho, iniciando assim um processo de transição de carreiras para a área de Tecnologia, desde então venho afiando meu estudo em JavaScript, Node.js, Python, Django, SQL, Git. 
+
+Meu principal objetivo no momento é alcançar o máximo de aprimoramento profissional como Desenvolvedor back-end e continuar ampliando minhas conexões.
 
 ## Para me encontrar:
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcizo-lopes/) 

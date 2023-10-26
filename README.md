@@ -3,7 +3,7 @@
 
 **Desenvolvedor de software Back-end** de São Luís - MA, a "Ilha do Amor" :desert_island: :heartpulse: 
 
-No ano de 2022 tive meu primeiro contato com a área de desenvolvimento de software e fiquei totalmente encantado por esse ramo de trabalho, iniciando assim um processo de transição de carreiras para a área de Tecnologia, desde então venho afiando meu estudo em JavaScript, Node.js, Python, Django, SQL, Git. 
+No ano de 2022 tive meu primeiro contato com a área de desenvolvimento de software e fiquei totalmente encantado por esse ramo de trabalho, iniciando assim um processo de transição de carreiras para a área de Tecnologia, desde então venho afiando meu estudo em JavaScript, Node.js, Python, Django, SQL, Git 
 
 Meu principal objetivo no momento é alcançar o máximo de aprimoramento profissional como Desenvolvedor back-end e continuar ampliando minhas conexões.
 
